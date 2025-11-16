@@ -1,6 +1,8 @@
 # GAME_PROGRAM-EX--1
 # EXP:1 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
 
+## NAME : DINAGARAN JOHNY S
+## REG NO : 212223220020
 ## Aim
 To implement and demonstrate various material effects in Unreal Engine, including emissive, roughness, and metallic properties, using the Material Editor.
 
